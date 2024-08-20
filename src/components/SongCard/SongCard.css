@@ -1,0 +1,25 @@
+body{
+  background-image: linear-gradient( 94.3deg,  rgba(26,33,64,1) 10.9%, rgba(81,84,115,1) 87.1% );
+}
+
+.song-detail-container{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.song-card-container{
+  margin:25px;
+  background-color: aliceblue;
+  padding: 10px;
+  height: 400px;
+  width: 250px;
+  border-radius: 7px;
+  text-align: center;
+}
+
+.song-card-image{
+  width: 250px;
+  height: 270px;
+  border-radius: 15px;
+}
